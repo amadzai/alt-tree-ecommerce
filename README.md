@@ -65,7 +65,7 @@ From the main page, you can also create new user accounts. However, new accounts
 
 <img src="screenshots/shop.png" alt="Sign In/Home Page of Alt-Tree">
 
-3. For admins, after logging in, you will be greeted with the panel with all the admin functionalities:
+3. For admins, after logging in, you will be greeted with the panel containing all the admin functionalities:
 
 <img src="screenshots/admin.png" alt="Sign In/Home Page of Alt-Tree">
 
