@@ -49,13 +49,13 @@ It is built with PHP for server-side scripting, while the database is managed wi
 ## Usage :keyboard:
 1. After setting up and navigating to the index page, you can log in using the following credentials:
 
-**Admin Account:**
-- **Username:** admin
-- **Password:** AltTree@1234
+    **Admin Account:**
+    - **Username:** admin
+    - **Password:** AltTree@1234
 
-**User Account:**
-- **Username:** tomasBuit
-- **Password:** AltTree@1234
+    **User Account:**
+    - **Username:** tomasBuit
+    - **Password:** AltTree@1234
 
 <img src="screenshots/signIn.png" alt="Sign In/Home Page of Alt-Tree">
 
