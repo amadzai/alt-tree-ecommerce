@@ -5,7 +5,7 @@ It is built with PHP for server-side scripting, while the database is managed wi
 ## Table of Contents :scroll:
 - [Features](#features-star)
 - [Installation](#installation-hammer_and_wrench)
-- [Usage](#usage-keyboard-computer_mouse)
+- [Usage](#usage-keyboardcomputer_mouse)
 - [FAQ](#faq-question)
 
 ## Features :star:
