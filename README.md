@@ -1,4 +1,4 @@
-# Alt-Tree E-Commerce Website:deciduous-tree:	
+# Alt-Tree E-Commerce Website :deciduous-tree:	
 Alt-Tree is a fully responsive e-commerce website designed for selling recycled and refurbished items. The project focuses on front-end development using HTML, CSS (with Bootstrap 4), and JavaScript.
 It is built with PHP for server-side scripting, while the database is managed with phpMyAdmin and SQL. 
 
