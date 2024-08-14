@@ -46,7 +46,7 @@ It is built with PHP for server-side scripting, while the database is managed wi
 - Place the project folder (`alt-tree-ecommerce`) into the `htdocs` directory of your XAMPP installation folder.
 - Open a browser and navigate to the [index page](http://localhost/alt-tree-ecommerce/index.php) to view the project.
 
-## Usage :keyboard: :computer_mouse:
+## Usage :keyboard::computer_mouse:
 1. After setting up and navigating to the index page, you can log in using the following credentials:
 
     **Admin Account:**
