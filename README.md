@@ -46,8 +46,30 @@ It is built with PHP for server-side scripting, while the database is managed wi
 - Place the project folder (`alt-tree-ecommerce`) into the `htdocs` directory of your XAMPP installation folder.
 - Open a browser and navigate to the [index page](http://localhost/alt-tree-ecommerce/index.php) to view the project.
 
-## Usage
-1. After setting up, you can 
+## Usage :keyboard:
+1. After setting up and navigating to the index page, you can log in using the following credentials:
+
+    **Admin Account:**
+    - **Username:** admin
+    - **Password:** AltTree@1234
+
+    **User Account:**
+    - **Username:** tomasBuit
+    - **Password:** AltTree@1234
+
+<img src="screenshots/signIn.png" alt="Sign In/Home Page of Alt-Tree">
+
+From the main page, you can also create new user accounts. However, new accounts will default to regular user roles. To grant admin privileges to a new account, log in with the existing admin account and adjust user roles as needed.
+
+2. For users, after logging in, navigate to the Shop page to view the pre-populated Alt-Tree products:
+
+<img src="screenshots/shop.png" alt="Sign In/Home Page of Alt-Tree">
+
+3. For admins, after logging in, you will be greeted with the panel with all the admin functionalities:
+
+<img src="screenshots/admin.png" alt="Sign In/Home Page of Alt-Tree">
+
+4. There are many more pages, feel free to explore and mess around with Alt-Tree!
 
 ## FAQ :question:
 1. Why can't I add anything to the shopping cart?
