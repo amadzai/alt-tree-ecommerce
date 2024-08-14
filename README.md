@@ -5,7 +5,7 @@ It is built with PHP for server-side scripting, while the database is managed wi
 ## Table of Contents :scroll:
 - [Features](#features-star)
 - [Installation](#installation-hammer_and_wrench)
-- [Usage](#usage-keyboard)
+- [Usage](#usage-keyboard-mouse)
 - [FAQ](#faq-question)
 
 ## Features :star:
@@ -46,7 +46,7 @@ It is built with PHP for server-side scripting, while the database is managed wi
 - Place the project folder (`alt-tree-ecommerce`) into the `htdocs` directory of your XAMPP installation folder.
 - Open a browser and navigate to the [index page](http://localhost/alt-tree-ecommerce/index.php) to view the project.
 
-## Usage :keyboard:
+## Usage :keyboard: :mouse:
 1. After setting up and navigating to the index page, you can log in using the following credentials:
 
     **Admin Account:**
@@ -59,7 +59,7 @@ It is built with PHP for server-side scripting, while the database is managed wi
 
 <img src="screenshots/signIn.png" alt="Sign In/Home Page of Alt-Tree">
 
-From the main page, you can also create new user accounts. However, new accounts will default to regular user roles. To grant admin privileges to a new account, log in with the existing admin account and adjust user roles as needed.
+From the index page, you can also create new user accounts. However, new accounts will default to regular user roles. To grant admin privileges to a new account, log in with the existing admin account and adjust user roles as needed.
 
 2. For users, after logging in, navigate to the Shop page to view the pre-populated Alt-Tree products:
 
