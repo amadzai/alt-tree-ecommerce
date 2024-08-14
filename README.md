@@ -3,9 +3,16 @@ Alt-Tree is a fully responsive e-commerce website designed for selling recycled 
 It is built with PHP for server-side scripting, while the database is managed with phpMyAdmin and SQL. 
 
 ## Table of Contents :scroll:
+- [Features](#features-star)
 - [Installation](#installation-hammer_and_wrench)
 - [Usage](#usage-keyboard)
 - [FAQ](#faq-question)
+
+## Features :star:
+- Browse for recycled and refurbished items
+- User authentication for accounts
+- Admin panel for managing items and users
+- Responsive design with Bootstrap 4
 
 ## Installation :hammer_and_wrench:
 ### Prerequisites
@@ -37,4 +44,14 @@ It is built with PHP for server-side scripting, while the database is managed wi
 
 4. **Run the project**:
 - Place the project folder (`alt-tree-ecommerce`) into the `htdocs` directory of your XAMPP installation folder.
-- Open a browser and navigate to the [index page](http://localhost/alttreecopy/index.php) to view the project.
+- Open a browser and navigate to the [index page](http://localhost/alt-tree-ecommerce/index.php) to view the project.
+
+## Usage
+1. After setting up, you can 
+
+## FAQ :question:
+1. Why can't I add anything to the shopping cart?
+- As this is a front-end focused project, the shopping cart and checkout functionality has not been added yet. Will be looking to add this in the future!
+
+2. When pressing the `Edit Profile` button, it does not redirect me to the page.
+- This is a known issue that is still being fixed. You will need to spam-click the button for it to redirect to the Edit Profile page.
