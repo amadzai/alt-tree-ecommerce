@@ -23,12 +23,12 @@ It is built with PHP for server-side scripting, while the database is managed wi
 ### Steps
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/amadzai/alt-tree-ecommerce.git
+    git clone git@github.com:amadzai/alt-tree-ecommerce.git
     ```
 
-   *or, if using SSH:*
+   *or, if using HTTPS:*
     ```bash
-    git clone git@github.com:amadzai/alt-tree-ecommerce.git
+    git clone https://github.com/amadzai/alt-tree-ecommerce.git
     ```
 
 2. **Navigate to the project directory**:
